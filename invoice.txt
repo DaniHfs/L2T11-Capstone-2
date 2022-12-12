@@ -1,0 +1,20 @@
+Order Number 1
+Customer: Daniel
+Email: dani@testmail.com
+Phone number: 123 456 7890
+Location: Durban
+
+You have ordered the following from Jimmy's in Durban:
+
+2x Cheeseburger
+
+Special instructions: Extra sauce
+
+Total: R24.8
+
+Eugene Santana is nearest to the restaurant and so they will be delivering your order to you at:
+
+12 Test lane
+Durban
+
+If you need to contact the restaurant, their number is 098 765 4321.
