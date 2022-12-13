@@ -5,6 +5,13 @@ import javax.swing.*;
 import java.awt.GridLayout;
 import java.awt.Color;
 
+/*
+ * This class implements the Customer and Restaurant classes
+ * to take customer information and orders and to pair them
+ * with a driver in the same area, if possible.
+ * Outputs a receipt with all necessary information
+ * once the process is finished
+ */
 public class QuickFood {
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String args[]) throws IOException {
